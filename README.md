@@ -87,11 +87,11 @@ Control Flow and Collection Types (65–93)
 		- [x] Test for `true` and `!true` in a conditional
 		- [x] Write a nested `if` statement
 		- [x] Write a `switch` statement
-	- [ ] Colletions
-		- [ ] ✏️ What will `arr[1]` return from this array `int[] arr = {'red','green','blue'};` ? : **??**
-		- [ ] Write an Array of the type `int[]`
-		- [ ] Write a List of the type `List<string>`
-		- [ ] Write a Dictionary of the type `Dictionary<string, int>`
+	- [x] Colletions
+		- [x] ✏️ What will `arr[1]` return from this array `int[] arr = {'red','green','blue'};` ? : **arr[1] will return 'green' since arrays begin counting at the 0 index value making the index value of [1] the second iteration in the above array.**
+		- [x] Write an Array of the type `int[]`
+		- [x] Write a List of the type `List<string>`
+		- [x] Write a Dictionary of the type `Dictionary<string, int>`
 	- [ ] Loops
 		- [ ] Use a `for` loop to print a specific index of a `List<string>`
 		- [ ] Use a `foreach` loop to print all indexes of a `List<string>`
