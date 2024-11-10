@@ -75,7 +75,7 @@ Diving into Variables, Types, and Methods (38–64)
 		- [x] Define a simple method with parameters
 		- [x] Add a return type and return some data from a method
 		- [x] Use data returned from a method
-- [x] ✏️ Explain some differences between public and private variables: **??**
+- [x] ✏️ Explain some differences between public and private variables: **Public variables can be called or acessed by any script in your unity project while provatre varbiables require you to open up the script in which that variable was created**
 
 
 ## Chapter 4
